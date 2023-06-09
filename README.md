@@ -6,10 +6,9 @@ we focused on predicting the occurrence and impact of the second wave of the epi
 * The following Figure displays the peak values selected for infections.
 <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/mean_ira%20(2).jpeg" alt="Image" width="300" height="200">
 
-#### 3. Prediction of the Epidemic
-* We projected the future spread, considering the significant increase in confirmed cases expected.
-* The Gaussian model was employed to estimate the value and timing of the expected peak, using the logistic model to determine growth rates.
-* The following Figure presents three different scenarios, illustrating the predicted number of cumulative cases and daily cases, with peak times.
+#### 2. Return Level Estimation
+* The projections for 2021 indicate that daily infections may exceed 4434, 4468, and 4498, with corresponding confidence intervals.
+* The following Figure illustrates the return level estimates for the selected threshold values.
 <div style="display: flex;">
   <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus_senrio.JPG" alt="First Image" style="width: 40%;">
   <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/cum_senrio.JPG" alt="Second Image" style="width: 40%;">
