@@ -4,7 +4,7 @@ we focused on predicting the occurrence and impact of the second wave of the epi
 * Choosing a plausible threshold value is crucial, as it affects the precision and bias of the return level estimate.
 * Using different methods to determine the appropriate threshold value for our data.
 * The following Figure displays the peak values selected for infections.
-<img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus.JPG" alt="Image" width="300" height="200">
+<img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/mean_ira%20(2).jpeg" alt="Image" width="300" height="200">
 
 #### 3. Prediction of the Epidemic
 * We projected the future spread, considering the significant increase in confirmed cases expected.
