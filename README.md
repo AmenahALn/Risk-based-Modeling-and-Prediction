@@ -10,7 +10,7 @@ we focused on predicting the occurrence and impact of the second wave of the epi
 * The projections for 2021 indicate that daily infections may exceed 4434, 4468, and 4498, with corresponding confidence intervals.
 * The following Figure illustrates the return level estimates for the selected threshold values.
 <div style="display: flex;">
-  <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/gus_senrio.JPG" alt="First Image" style="width: 40%;">
+  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return.JPG" alt="First Image" style="width: 40%;">
   <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/cum_senrio.JPG" alt="Second Image" style="width: 40%;">
 </div>
 
