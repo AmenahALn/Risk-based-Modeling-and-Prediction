@@ -16,3 +16,5 @@ we focused on predicting the occurrence and impact of the second wave of the epi
 #### 3. Prediction of the Spread
 * We employed the Gaussian2 model to estimate the value and timing of the expected peak for two different scenarios.
 * The following Figure depicts the daily cases with three expected maximum peak values and their corresponding timing.
+<img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/three.JPG" alt="Image" width="300" height="200">
+
