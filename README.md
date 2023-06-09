@@ -11,6 +11,6 @@ we focused on predicting the occurrence and impact of the second wave of the epi
 * The following Figure illustrates the return level estimates for the selected threshold values.
 <div style="display: flex;">
   <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return.JPG" alt="First Image" style="width: 40%;">
-  <img src="https://github.com/AmenahALn/Epidemic-Analysis-and-Forecasting/blob/main/cum_senrio.JPG" alt="Second Image" style="width: 40%;">
+  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return_2.JPG" alt="Second Image" style="width: 40%;">
 </div>
 
